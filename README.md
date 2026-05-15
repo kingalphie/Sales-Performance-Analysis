@@ -71,5 +71,5 @@ Furthermore, advertising those products with low sales would create more awarene
 The firm should set up a review system for customers to express their satisfaction, complaints and feelings about the thriving products across the countries. This will enable the sales firm to improve the products and create good customer relationship. Thus, this can also be applied in the case of products with low sales.
 ## SALES PERFORMANCE DASHBOARD PREVIEW
 -kindly click the link here to preview the dasboard
-
+https://github.com/kingalphie/Sales-Performance-Analysis/blob/main/NEW%20SALES%20PERFORMANCE.png
 
